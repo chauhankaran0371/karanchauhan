@@ -1,0 +1,52 @@
+{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    border: 2px solid red;
+    margin: 50px 200px;
+    
+}
+.city-name{
+    
+    display: flex;
+    
+}
+.city-name-souter{
+    margin-top: 10px;
+        
+}
+.city-name-s{
+    border: 2px solid whitesmoke;
+    box-shadow: 50px;
+    border-radius: 50px;
+    padding: 6px 10px;
+    
+}
+.cities-list-name{
+   
+    display: flex;
+    padding: 5px;   
+    flex-wrap: wrap;
+}
+.cities-list-name li{
+    border: 1px solid green;
+    border-radius: 5px;
+   
+    list-style: none;
+    padding: 5px;
+    margin: 5px 10px;
+   
+    
+}
+.cities-list-name a{
+    text-decoration: none;
+    padding: 10px;
+}
+.cities-list-name li:hover{
+    background-color: rgb(8, 98, 8);
+    
+}
+.cities-list-name a:hover{
+    color:whitesmoke;
+}

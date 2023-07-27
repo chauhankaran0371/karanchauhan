@@ -1,0 +1,291 @@
+{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .navbar {
+
+        display: flex;
+        padding: 5px;
+    }
+
+    .logo {
+
+        height: 50px;
+        width: 500px;
+        margin: 5px 20px;
+
+    }
+
+    .logo img {
+        height: 50px;
+        margin-left:30%;
+       
+    }
+
+
+
+    .list1 ul {
+        display: flex;
+        list-style: none;
+        font-size: 15px;
+    }
+
+    .list1 li {
+        margin: 5px 25px;
+        font-family: 'Montserrat', sans-serif;
+
+    }
+
+    .list1 li a {
+        color: #00572d;
+        text-decoration: none;
+    }
+
+    .list1 input {
+        border: 2px solid #00572d;
+        padding: 5px 10px;
+        border-radius: 5px;
+        color: white;
+        background-color: #00572d;
+    }
+
+    .banner-heading {
+        color: red;
+        width: 100%;
+        font-size: 53px;
+        font-weight: 500;
+        line-height: 63px;
+        margin-bottom: 25px;
+        text-align: center;
+
+    }
+
+    .banner-heading span {
+        color: yellow;
+        display: block;
+
+
+    }
+
+    .slide_image img {
+
+        height: 567px;
+        float: right;
+        
+       
+    }
+
+    .side_deal {
+
+        margin: 25px 30px;
+        display: inline-block;
+    }
+
+    .side_deal h1 {
+        text-align: center;
+    }
+    .deal_images{
+        display: flex;
+    }
+
+     .deal_images img {
+        padding: 3px;
+        height: 250px;
+        width: 350px;  
+        
+        
+    }
+
+    .about_us {
+        height: 550px;
+        margin: 50px;
+        
+
+    }
+
+    .about_us h1 {
+        display: inline-block;
+        font-size: 30px;
+        position: absolute;
+        padding: 70px 50px;
+    }
+
+    .about_text1 {
+        margin: 100px;
+    }
+
+    .about_us p {
+        position: absolute;
+        padding: 10px 80px;
+        font-size: 18px;
+        width: 650px;
+        text-align: justify;
+        margin-top: 142px;
+    }
+
+    .about_image {
+
+        float: right;
+    }
+
+    .about_image img {
+
+        height: 500px;
+        margin: 0px 100px;
+        border-radius: 50%;
+    }
+    .container_banner2{
+        margin-top: -40px;
+        
+    }
+    .container_banner2 img{
+        display: inline-block;
+        margin-left: 125px;
+        height: auto;
+        width: 77%;
+    }
+    .container1{
+        height: 600px;
+        background-color: #f5f5f5;
+        margin-top: 45px;
+        border: 2px solid #f5f5f5;
+        
+    }
+    .details_item{
+        margin-right: 250px;
+        text-align: center;
+        margin-left: 100px;
+    }
+    .details_item h3{
+        font-size: 28px;
+        margin-left: 50px;
+    }
+    .row{
+        
+        display: flex;
+    }
+   
+    .timeline-ul li{
+        display: flex;
+
+    }
+    .timeline_img{
+        margin:20px;
+    }
+    .position-relative{
+        position: relative;
+    }
+    .timeline-circle{
+        margin: 20px;    
+        
+    }
+    .text1{
+        border: 2px solid white;
+        background-color: white;
+        display: block;
+        padding: 10px;
+        border-radius: 5px;
+    }
+   .text2{
+    display: block;
+    font-size: 26px;
+   }
+   .headding2{
+    margin: 50px 90px;
+
+   }
+   .wrapper{
+    display: flex;
+   
+   }
+   
+   .upper_headding h3{
+    font-size: 48px;
+
+   }
+   .wrapper .item{
+    margin-top: -25px;
+
+   }
+   .wrapper img {
+    
+    height: 140px;
+    padding: 30px;
+    margin-left: 40px;
+   }
+   .container4{
+    
+   }
+   .o1{
+   
+    display: flex;
+    justify-content: space-evenly;
+
+    
+   }
+   .order1{
+    display: inline-block;
+    height: 470px;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+    
+   }
+   .order1 img{
+    height: 300px;
+    border-radius: 20px 20px 0px 0px;
+   }
+   .button1{
+    display: inline-block;
+    background-color: green;
+    padding: 7px 30px;
+    border: 2px solid green;
+    border-radius: 5px;
+   }
+   .button1 a{
+    color: white;
+    text-decoration: none;
+   }
+   .footer{
+    height: 150px;
+    margin-top: 15px;
+    background-color: green;
+    display: flex; 
+    justify-content: space-around;  
+     
+   }
+   .foot1{
+   
+      }
+   .ul_footer a{
+    text-decoration: none;
+   }
+   .ul_footer li{
+    list-style: none;
+   }
+   .item1 h3{
+   
+    margin-left:40px;
+    color:white;
+   }
+   .payment{
+    text-align: center;
+    margin-left: 30px;
+    
+    
+   }
+   .payment img{
+    margin-left: 3px;
+    padding: 3px;
+   }
+   .copyright{
+    background-color: rgb(14, 165, 14);
+    border:2px solid rgb(14, 165, 14);
+    text-align: center;
+    font-size: 16px;
+    
+   }
